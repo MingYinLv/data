@@ -32,6 +32,14 @@
 
 [HTTP权威指南](https://www.amazon.cn/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E5%90%89%E5%B0%94%E5%88%A9/dp/B008XFDQ14/ref=sr_1_1?ie=UTF8&qid=1469198036&sr=8-1&keywords=HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97)
 
+## EsLint
+[EsLint规则](http://www.jianshu.com/p/1682b91756b1)
+
+[EsLint入门](http://www.cnblogs.com/ruanyifeng/p/5283708.html)
+
 ## 其他
 [SASS](http://www.w3cplus.com/sassguide/)
+
 [Markdown](http://sspai.com/25137)
+
+[ES6](http://es6.ruanyifeng.com/)
