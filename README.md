@@ -37,6 +37,11 @@
 
 [EsLint入门](http://www.cnblogs.com/ruanyifeng/p/5283708.html)
 
+## 模板
+[jade学习](http://www.w3cplus.com/html/jade.html)
+
+[Jade —— 源于 Node.js 的 HTML 模板引擎](https://segmentfault.com/a/1190000000357534#articleHeader1)
+
 ## 其他
 [SASS](http://www.w3cplus.com/sassguide/)
 
