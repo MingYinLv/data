@@ -32,6 +32,9 @@
 
 [HTTP权威指南](https://www.amazon.cn/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E5%90%89%E5%B0%94%E5%88%A9/dp/B008XFDQ14/ref=sr_1_1?ie=UTF8&qid=1469198036&sr=8-1&keywords=HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97)
 
+## Node
+[DISCOVER METEOR中文](http://zh.discovermeteor.com/chapters/introduction/)
+
 ## EsLint
 [EsLint规则](http://www.jianshu.com/p/1682b91756b1)
 
