@@ -45,6 +45,9 @@
 
 [Jade —— 源于 Node.js 的 HTML 模板引擎](https://segmentfault.com/a/1190000000357534#articleHeader1)
 
+## Python
+[整理](https://zhuanlan.zhihu.com/p/21856569)
+
 ## 其他
 [SASS](http://www.w3cplus.com/sassguide/)
 
