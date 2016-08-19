@@ -35,6 +35,8 @@
 ## Node
 [DISCOVER METEOR中文](http://zh.discovermeteor.com/chapters/introduction/)
 
+[package.json](http://my.oschina.net/u/1992917/blog/523046#OSC_h1_20)
+
 ## EsLint
 [EsLint规则](http://www.jianshu.com/p/1682b91756b1)
 
@@ -58,3 +60,5 @@
 [一个神奇的D3项目](http://www.koalastothemax.com/)
 
 [JSDOC](http://www.css88.com/doc/jsdoc/index.html)
+
+
